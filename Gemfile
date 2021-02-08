@@ -41,7 +41,7 @@ gem 'rails-i18n'
 
 gem 'aasm'
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 gem 'rails_12factor', group: :production
 
